@@ -1,0 +1,8 @@
+[package]
+name = "roguelike-test"
+version = "0.1.0"
+authors = ["= <joshua.escamilla@selu.edu>"]
+edition = "2018"
+
+[dependencies]
+termion = "*"
